@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seosawol
-- 👀 I’m interested in Python, javascript, C, android studion, ect.. 
+- 👀 I’m interested in Python, javascript, C, android studio, ect.. 
 
 
 
